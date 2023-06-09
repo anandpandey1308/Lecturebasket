@@ -1,0 +1,24 @@
+.img{
+    max-width: 99vw;
+    max-height: 70vh;
+
+}
+
+
+.main{
+    background-color: rgb(220, 243, 245) !important;
+}
+.swap{
+    flex-direction: row-reverse;
+    transition: opacity 2s ease, transform 2s ease;
+    transition-duration: 1s;
+    transition-delay: 1s;
+}
+
+.centrify{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    padding: 6px;
+}

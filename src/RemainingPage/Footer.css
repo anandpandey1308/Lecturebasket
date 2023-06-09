@@ -1,0 +1,42 @@
+.main-d{
+    background-color: rgb(15, 2, 68);
+    color: white;
+   padding: 12px;
+}
+
+.height{
+    height: 5vh;
+    padding: 12px;
+}
+
+
+.wdth{
+    max-width: 300px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.w-18{
+    width: 25px;
+    height: 25px;
+    margin-right: 5px;
+   
+}
+
+.cnt-text{
+    padding: 0px;
+}
+
+.margin-adjust{
+    margin-left: 5px;
+}
+
+.nolink{
+    text-decoration: none;
+    color: white;
+}
+
+.color-adjust{
+    color:rgb(1,255,133);
+}
